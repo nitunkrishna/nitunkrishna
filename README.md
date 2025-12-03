@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**nitunkrishna/nitunkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <br>I am Nitun Krishna Biswas from Narail, Bangladesh.
 <br>Currently I am pursuing B. Sc. (Engg.) in Computer Science and Engineering in Mawlana Bhashani Science and Technology University.
