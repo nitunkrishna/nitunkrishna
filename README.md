@@ -5,8 +5,3 @@
 ## PROJECTS
 **1. Stopwatch** [Click Here](https://github.com/nitunkrishna/Stopwatch-C)
 
-## Contact Me:
-**Facebook:** https://www.facebook.com/nitunkrishna21  
-**LinkedIn:** https://www.linkedin.com/in/nitunkrishna21  
-**Whatsapp:** @nitun_krishna  
-**Telegram:** @nitun_krishna  
