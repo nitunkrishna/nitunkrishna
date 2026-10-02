@@ -21,7 +21,7 @@ I'm passionate about programming, problem-solving, and software development. I h
 
 ## 📂 Projects
 
-### ⏱️Stopwatch
+### ⏱️ Stopwatch
 
 A simple stopwatch application built using C.
 
