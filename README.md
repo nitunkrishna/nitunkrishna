@@ -33,10 +33,15 @@ A console-based Bus Reservation System built in C using structures, file handlin
 
 🔗 [View Project](https://github.com/nitunkrishna/Bus-Reservation-System-C)
 
+---
 
 <p align="center">
-  <a href="https://github.com/nitunkrishna/nitunkrishna/blob/main/projects.md">View More</a>
+  <a href="https://github.com/nitunkrishna/nitunkrishna/blob/main/projects.md">
+    <img src="https://img.shields.io/badge/View%20All%20Projects%20%E2%86%92-0969DA?style=for-the-badge" alt="View All Projects">
+  </a>
 </p>
+
+---
 
 ## 💻 Problem Solving
 
