@@ -21,7 +21,7 @@ I'm passionate about programming, problem-solving, and software development. I h
 
 ## 📂 Projects
 
-### + × ÷ - CppCalc-C++ Console Calculator
+### 🔢 CppCalc-C++ Console Calculator
 
 A multi-file C++ console calculator with floating-point operations, input validation, and exception handling.
 
