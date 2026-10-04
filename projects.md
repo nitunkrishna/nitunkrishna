@@ -20,7 +20,7 @@ A console-based Bus Reservation System built in C using structures, file handlin
 
 ---
 
-### + × ÷ - CppCalc-C++ Console Calculator
+### 🔢 CppCalc-C++ Console Calculator
 
 A multi-file C++ console calculator with floating-point operations, input validation, and exception handling.
 
