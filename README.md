@@ -21,11 +21,11 @@ I'm passionate about programming, problem-solving, and software development. I h
 
 ## 📂 Projects
 
-### ⏱️ Stopwatch
+### + × ÷ - CppCalc-C++ Console Calculator
 
-A simple stopwatch application built using C.
+A multi-file C++ console calculator with floating-point operations, input validation, and exception handling.
 
-🔗 [View Project](https://github.com/nitunkrishna/Stopwatch-C)
+🔗 [View Project](https://github.com/nitunkrishna/CppCalc)
 
 ### 🚌 Bus Reservation System in C  
 
