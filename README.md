@@ -33,6 +33,11 @@ A console-based Bus Reservation System built in C using structures, file handlin
 
 🔗 [View Project](https://github.com/nitunkrishna/Bus-Reservation-System-C)
 
+
+<p align="center">
+  <a href="https://github.com/nitunkrishna/nitunkrishna/blob/main/projects.md">View More</a>
+</p>
+
 ## 💻 Problem Solving
 
 I practice programming problems to improve my problem-solving skills and strengthen my understanding of algorithms and data structures.
