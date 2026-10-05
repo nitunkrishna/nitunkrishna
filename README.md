@@ -47,10 +47,19 @@ A console-based Bus Reservation System built in C using structures, file handlin
 
 I practice programming problems to improve my problem-solving skills and strengthen my understanding of algorithms and data structures.
 
-- [LeetCode](https://leetcode.com/u/nitunkrishna)
-- [Codeforces](https://codeforces.com/profile/nitunkrishna)
-- [CodeChef](https://www.codechef.com/users/nitunkrishna)
-- [HackerRank](https://www.hackerrank.com/profile/nitunkrishna)
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)][leetcode]
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)][codeforces]
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)][codechef]
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)][hackerrank]
+
+</div>
+
+[leetcode]: (https://leetcode.com/u/nitunkrishna)
+[codeforces]: (https://codeforces.com/profile/nitunkrishna)
+[codechef]: https://www.codechef.com/users/nitunkrishna
+[hackerrank]: https://www.hackerrank.com/profile/nitunkrishna
 
 ## 🎯 Goals
 
