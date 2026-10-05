@@ -56,8 +56,8 @@ I practice programming problems to improve my problem-solving skills and strengt
 
 </div>
 
-[leetcode]: (https://leetcode.com/u/nitunkrishna)
-[codeforces]: (https://codeforces.com/profile/nitunkrishna)
+[leetcode]: https://leetcode.com/u/nitunkrishna
+[codeforces]: https://codeforces.com/profile/nitunkrishna
 [codechef]: https://www.codechef.com/users/nitunkrishna
 [hackerrank]: https://www.hackerrank.com/profile/nitunkrishna
 
