@@ -59,10 +59,19 @@ I practice programming problems to improve my problem-solving skills and strengt
 - Improve my problem-solving skills.
 - Become a skilled Software Engineer.
 
-## 📫 Connect With Me
+## 🌐 Connect with Me
 
-- **GitHub:** [nitunkrishna](https://github.com/nitunkrishna)
-- **Location:** Narail, Bangladesh
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
+
+</div>
+
+[linkedin]: https://www.linkedin.com/in/nitunkrishna21/
+[github]: https://github.com/nitunkrishna
+[gmail]: mailto:nkbiswas05@gmail.com
 
 ---
 
