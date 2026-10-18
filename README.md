@@ -83,5 +83,6 @@ I practice programming problems to improve my problem-solving skills and strengt
 [gmail]: mailto:nkbiswas05@gmail.com
 
 ---
-
+<div align="center">
 ⭐ Thanks for visiting my profile!
+</div>
