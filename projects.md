@@ -25,3 +25,10 @@ A console-based Bus Reservation System built in C using structures, file handlin
 A multi-file C++ console calculator with floating-point operations, input validation, and exception handling.
 
 🔗 [View Project](https://github.com/nitunkrishna/CppCalc)
+
+
+### 👨‍🏫 Student Management System in C
+
+A multi-file console-based Student Management System built in C using structures, functions and multi-file handling. 
+
+🔗 [View Project](https://github.com/nitunkrishna/Student-Management-System-C)
