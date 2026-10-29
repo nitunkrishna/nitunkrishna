@@ -11,6 +11,7 @@ I'm passionate about programming, problem-solving, and software development. I h
 - Data Structures and Algorithms
 - Object-Oriented Programming (C++)
 - Python
+- Java
 - Problem Solving
 
 ## 🛠️ Technical Skills
