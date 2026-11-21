@@ -26,6 +26,7 @@ A multi-file C++ console calculator with floating-point operations, input valida
 
 🔗 [View Project](https://github.com/nitunkrishna/CppCalc)
 
+---
 
 ### 👨‍🏫 Student Management System in C
 
